@@ -17,10 +17,10 @@ async function getLatestCommit(repoOwner, repoName) {
                 date: latestCommit.commit.author.date
             };
         } else {
-            throw new Error('Nebyly nalezeny žádné commity v repozitáři.');
+            throw new Error('ERROR: no commits in repo.');
         }
     } catch (error) {
-        console.error('Chyba při získávání dat z GitHub API:', error);
+        console.error('GitHub API ERROR:', error);
         return null;
     }
 }
@@ -85,7 +85,7 @@ async function displayProjects() {
         if (loadingElement) {
             loadingElement.style.display = 'none';
         } else {
-            console.error('Element s třídou "loading" nebyl nalezen.');
+            console.error('Loading not found');
         }
     });
 }
