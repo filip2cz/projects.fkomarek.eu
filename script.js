@@ -44,7 +44,6 @@ async function displayProjects() {
         { name: 'space-image', owner: 'filip2cz', repo: 'space-image' },
         { name: 'prague.fkomarek.eu', owner: 'filip2cz', repo: 'prague.fkomarek.eu' },
         { name: 'windows-3.1-simulator', owner: 'filip2cz', repo: 'windows-3.1-simulator' },
-        { name: 'esxi-passwordreset', owner: 'filip2cz', repo: 'esxi-passwordreset' },
         { name: 'dns-minimal', owner: 'filip2cz', repo: 'dns-minimal' },
         { name: 'vmware-powercli-running-vms-table', owner: 'filip2cz', repo: 'vmware-powercli-running-vms-table' },
         { name: 'wifi-checker', owner: 'filip2cz', repo: 'wifi-checker' },
