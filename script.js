@@ -48,6 +48,8 @@ async function displayProjects() {
         { name: 'vmware-powercli-running-vms-table', owner: 'filip2cz', repo: 'vmware-powercli-running-vms-table' },
         { name: 'wifi-checker', owner: 'filip2cz', repo: 'wifi-checker' },
         { name: 'python-spammer', owner: 'filip2cz', repo: 'python-spammer' },
+        { name: 'powerbank', owner: 'filip2cz', repo: 'powerbank' },
+        { name: 'archlinux-custom-iso-script', owner: 'filip2cz', repo: 'archlinux-custom-iso-script' },
         // Další projekty...
     ];
 
