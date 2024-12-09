@@ -50,6 +50,7 @@ async function displayProjects() {
         { name: 'python-spammer', owner: 'filip2cz', repo: 'python-spammer' },
         { name: 'powerbank', owner: 'filip2cz', repo: 'powerbank' },
         { name: 'archlinux-custom-iso-script', owner: 'filip2cz', repo: 'archlinux-custom-iso-script' },
+        { name: 'pid-panel', owner: 'filip2cz', repo: 'pid-panel' },
         // Další projekty...
     ];
 
