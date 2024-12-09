@@ -36,7 +36,6 @@ async function displayProjects() {
         { name: 'Better Microsoft Container', owner: 'filip2cz', repo: 'better-contain-microsoft' },
         { name: 'SSHButtons', owner: 'filip2cz', repo: 'ssh-buttons' },
         { name: 'status-client-c', owner: 'filip2cz', repo: 'status-client-c' },
-        { name: 'ed-balls-cheat', owner: 'filip2cz', repo: 'ed-balls-cheat' },
         { name: 'status-client-csharp', owner: 'filip2cz', repo: 'status-client-csharp' },
         { name: 'Bludiste', owner: 'filip2cz', repo: 'bludiste' },
         { name: 'zpevnik.fkomarek.eu', owner: 'filip2cz', repo: 'zpevnik.fkomarek.eu' },
